@@ -1,4 +1,4 @@
-import { useState } from 'react';
+import { useState } from 'react'; 
 import logo from '../img/logos/logo.png'
 
 const Navbar = () => {
