@@ -1,4 +1,4 @@
-import cover from '../img/img1.jpg';
+import cover from '../assets/img/img1.jpg' ;
 const Hero = () => {
   return (
     <section id="home" className="bg-brown-50 min-h-screen flex items-center">
